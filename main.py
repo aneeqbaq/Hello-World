@@ -4,4 +4,6 @@
 # Purpose: This is my first assignment.
 ######################
 
-print("Hello World")
+name = input("Aneeque")
+print("Hello", name)
+
